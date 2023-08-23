@@ -8,7 +8,7 @@ Wish me all the best.
 
 Thanks.  
 
-🌱 And what I've learned and know so far: HTML and CSS are my comfort zone. I'm also well-acquainted with GIT, init-s, commit-s, pushing/pulling changes, branch-es, conflicts. Javascript is another area of familiarity; I've been learning it through Udemy courses, freeCodeCamp's free courses, Skillema courses, now with Linkedin Learning and even with the help of chatGPT as my teacher. I believe I have a grasp of the basic concepts and often use them, but I'm eagerly looking forward to delving deeper. My next goal is to learn and implement the React framework into my projects. SQL has also caught my interest, Tailwind CSS is on the list too and I enjoy exploring various aspects of software development from every angle.
+🌱 And what I've learned and know so far: HTML and CSS are my comfort zone. I'm also well-acquainted with GIT, init-s, commit-s, pushing/pulling changes, branch-es, conflicts. Javascript is another area of familiarity; I've been learning it through Udemy courses, freecodecamp's free courses, Skillema courses, now with Linkedin Learning and even with the help of chatGPT as my teacher. I believe I have a grasp of the basic concepts and often use them, but I'm eagerly looking forward to delving deeper. My next goal is to learn and implement the React framework into my projects. SQL has also caught my interest, Tailwind CSS is on the list too and I enjoy exploring various aspects of software development from every angle.
 
 
 
