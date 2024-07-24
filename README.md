@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🔭  full-stack on full throttle
+- 🔭 I’m currently working on web site for my wife as my home project...
+- 🌱 I’m currently learning everything what i need to know, what helps me make better code, complex view on development of software, etc...
+- 👯 ...but i would learn Rust, how to make convolutional neural network and recognize hand written digits with her, and some tools to make better web app => this year please
 
 
 
