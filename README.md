@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on web site for my wife as my home project...
-- 🌱 learning everything what i need to know, what helps me make better code, complex view on development of software, etc...
-- 👯 ...but i would learn Python, how to make convolutional neural network and recognize hand written digits with her, and some tools to make better web app => this year please
+- 
 
 
 
