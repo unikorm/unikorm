@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on web site for my wife as my home project...  
+- 🔭 I’m currently working on web site for my wife as my home project...
+
+  she is LIVE and ready to explore  
   www.momentkaph.sk
 
 
