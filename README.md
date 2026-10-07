@@ -100,8 +100,8 @@
 ├── lang/    typescript · javascript · java · go · bash · synapse xml
 ├── front/   html · css · vanilla js   (no framework is a feature)
 ├── back/    node (builtins only) · rest · aws sigv4 · resend
-├── infra/   linux · nginx · systemd · pm2 · digitalocean · gh actions
-└── head/    domain modeling · backwards planning · reading the rfc
+├── infra/   linux · nginx · systemd · gh actions
+└── head/    domain modeling · backwards planning · reading about stuff
 
 <b>adamko@unikorm</b>:<b>~</b>$ cat ~/.plan
   [ live ]  keep momentkaph.sk fast, boring and online
